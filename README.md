@@ -3,13 +3,9 @@
 ## Libraries:
 - [Bootsrap 5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
-## Desktop preview
+## Preview
 
 ![Desktop preview](https://github.com/jjsimps0n/FrontEnd-QRCodeComponent/blob/main/Task/desktop-preview.jpg?raw=true)
-
-## Mobile preview
-
-![Mobile preview](https://github.com/jjsimps0n/FrontEnd-QRCodeComponent/blob/main/Task/mobile-design.jpg?raw=true)
 
 # Front-end Style Guide
 
