@@ -1,0 +1,57 @@
+@import 'components/variables';
+@import 'components/typography';
+
+body,
+html {
+    background-color: $color-lightGray;
+}
+
+.row,
+.container {
+    background: $color-lightGray;
+}
+
+.qrBlock {
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+
+    .col {
+        padding: 5px;
+    }
+
+    .qr-card {
+        margin-top: 147px;
+        background-color: $color-white;
+        padding: 16px;
+        border-radius: 20px;
+        text-align: center;
+        box-shadow: 0 3px 10px $color-lightGray;
+    }
+
+    .card__image {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .card__title {
+        padding-top: 24px;
+        font-size: 22px;
+        line-height: 28px;
+        font-weight: 700;
+        color: $color-darkBlue;
+    }
+
+    .card__paragraph {
+        padding-bottom: 7px;
+        padding-top: 9px;
+        padding-left: 12px;
+        padding-right: 12px;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 19px;
+        color: $color-grayishBlue;
+    }
+}
