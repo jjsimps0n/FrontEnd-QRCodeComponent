@@ -1,6 +1,6 @@
 # QR code component TASK
 
-Libraries:
+## Libraries:
 - [Bootsrap 5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 
